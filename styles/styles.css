@@ -482,7 +482,7 @@ section {
   font-size: 2rem;
   text-transform: uppercase;
 }
-.contact-content-con .left-contact p {
+.contact-content-con .left-contact {
   margin: 1rem 0;
   line-height: 2rem;
 }
@@ -490,8 +490,9 @@ section {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin: auto;
 }
-.contact-content-con .left-contact .contact-info .contact-item p {
+.contact-content-con .left-contact .contact-info .contact-item a {
   margin: 0.3rem 0 !important;
   padding: 0 !important;
 }
