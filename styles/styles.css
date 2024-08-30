@@ -256,6 +256,7 @@ section {
 }
 .about-container .left-about {
   padding-right: 5rem;
+  margin-top: -2rem;
 }
 .about-container .left-about p {
   line-height: 2rem;
